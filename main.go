@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+//Умножение
+func mult(a, b int) int {
+	return a * b
+}
+
 //складываем
 func sum(a, b int) int {
 	return a + b
